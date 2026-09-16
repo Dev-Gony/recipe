@@ -1,18 +1,19 @@
 # 콘텐츠 시안 인덱스
 
-모든 시안은 `imagegen` 기본 내장 모드로 생성한 초안입니다. 이미지 안의 텍스트는 제목 중심으로 제한하고, 정확한 조리 문구는 게시물 본문에서 제공합니다.
+현재 게시 후보는 첨부 레퍼런스 기반의 홈파티 과일 부라타 리스 샐러드입니다. 이전 볶음밥·인물 시안은 이번 게시본에서 제외했습니다.
 
 | 시안 | 파일 |
 | --- | --- |
-| 김치치즈 에그인홀 | [`kimchi-cheese-egg-in-a-hole-v1.png`](../assets/drafts/kimchi-cheese-egg-in-a-hole-v1.png) |
-| 양배추 닭가슴살 두부 김치볶음밥 | [`yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-instagram-v1.png`](../assets/drafts/yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-instagram-v1.png) |
-| 무화과 새콤매콤 무침 | [`20260916_fig-muchim_vertical_draft_v01.png`](../assets/drafts/20260916_fig-muchim_vertical_draft_v01.png) |
-| 사람이 소개하는 볶음밥 추가 실습 | [`yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png`](../assets/drafts/yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png) |
+| 표지용 과일 부라타 리스 | [`fruit-burrata-wreath-editorial-cover-v1.png`](../assets/drafts/fruit-burrata-wreath-editorial-cover-v1.png) |
+| 재료 플랫레이 | [`fruit-burrata-wreath-editorial-ingredients-v1.png`](../assets/drafts/fruit-burrata-wreath-editorial-ingredients-v1.png) |
+| 플레이팅 과정 | [`fruit-burrata-wreath-editorial-process-v1.png`](../assets/drafts/fruit-burrata-wreath-editorial-process-v1.png) |
+| 완성 접시 | [`fruit-burrata-wreath-editorial-final-v1.png`](../assets/drafts/fruit-burrata-wreath-editorial-final-v1.png) |
 
-최종 피드 캐러셀은 [`instagram-feed.md`](instagram-feed.md)의 4장 업로드 순서를 따릅니다.
+최종 업로드용 4장은 [`instagram-feed.md`](instagram-feed.md)의 순서를 따릅니다.
 
-## 공통 게시 원칙
+## 제작 기준
 
-- 이미지에는 근거 없는 건강 효능을 넣지 않습니다.
-- 출처 원문과 달라진 재료·시간은 “한국식 응용” 또는 “콘텐츠용 편집안”으로 표시합니다.
-- 최종 게시 전 이미지 제목과 외부 카드 문구의 맞춤법을 별도 확인합니다.
+- 첨부 레퍼런스의 흰 대리석, 원형 리스 플레이팅, 홈파티 소품을 시각 기준으로 삼았습니다.
+- 재료·분량·준비 순서·드레싱·보관 안내는 이미지 안에 직접 넣었습니다.
+- 조리 없는 메뉴이므로 `준비 15분 · 조리 없음`으로 명시했습니다.
+- 사람·얼굴·손·이전 볶음밥 콘텐츠는 현재 게시본에서 제외했습니다.

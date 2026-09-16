@@ -7,6 +7,7 @@
 | 김치치즈 에그인홀 | [`kimchi-cheese-egg-in-a-hole-v1.png`](../assets/drafts/kimchi-cheese-egg-in-a-hole-v1.png) |
 | 양배추 닭가슴살 두부 김치볶음밥 | [`yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-instagram-v1.png`](../assets/drafts/yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-instagram-v1.png) |
 | 무화과 새콤매콤 무침 | [`20260916_fig-muchim_vertical_draft_v01.png`](../assets/drafts/20260916_fig-muchim_vertical_draft_v01.png) |
+| 사람이 소개하는 볶음밥 추가 실습 | [`yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png`](../assets/drafts/yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png) |
 
 ## 공통 게시 원칙
 

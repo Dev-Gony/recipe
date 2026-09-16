@@ -9,7 +9,7 @@ SNS에 게시할 레시피 콘텐츠를 조사하고, 세로형 이미지 시안
 - `assets/`: 최종 PNG/JPG 이미지
 - `review/`: 근거·표기·시각 품질 검토 결과
 
-최종 게시 1안은 [`content/final-caption.md`](content/final-caption.md)의 양배추 닭가슴살 두부 김치볶음밥이며, 시안 3종은 `assets/drafts/`에서 확인할 수 있습니다.
+최종 게시 1안은 [`content/final-caption.md`](content/final-caption.md)의 양배추 닭가슴살 두부 김치볶음밥이며, 시안 3종은 `assets/drafts/`에서 확인할 수 있습니다. 실습 PDF의 콘텐츠·이미지 보완 조사는 [`research/content-image-research.md`](research/content-image-research.md)에 기록되어 있습니다.
 
 ## 작업 원칙
 

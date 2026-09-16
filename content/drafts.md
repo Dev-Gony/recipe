@@ -9,6 +9,8 @@
 | 무화과 새콤매콤 무침 | [`20260916_fig-muchim_vertical_draft_v01.png`](../assets/drafts/20260916_fig-muchim_vertical_draft_v01.png) |
 | 사람이 소개하는 볶음밥 추가 실습 | [`yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png`](../assets/drafts/yangbaechu-dakgaseumsal-dubu-kimchi-bokkeumbap-presenter-v1.png) |
 
+최종 피드 캐러셀은 [`instagram-feed.md`](instagram-feed.md)의 4장 업로드 순서를 따릅니다.
+
 ## 공통 게시 원칙
 
 - 이미지에는 근거 없는 건강 효능을 넣지 않습니다.

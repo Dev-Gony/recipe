@@ -13,6 +13,8 @@ SNS에 게시할 레시피 콘텐츠를 조사하고, 세로형 이미지 시안
 
 사람이 레시피를 소개하는 추가 실습 시안은 [`content/presenter-variant.md`](content/presenter-variant.md)에서 확인할 수 있습니다.
 
+인스타그램 피드 캐러셀 4장은 [`content/instagram-feed.md`](content/instagram-feed.md)에서 업로드 순서와 캡션을 확인할 수 있습니다.
+
 ## 작업 원칙
 
 1. 조리 시간·계량·안전 주장은 출처 또는 계산 근거를 남깁니다.
